@@ -36,12 +36,10 @@
 }
 
 .erase{
-    display: inline-block;
+   
     text-decoration: line-through 1.5px;
     margin-left: 20px;
 }
-.m{
-    padding-bottom: 10px;
-}
+
 
 
