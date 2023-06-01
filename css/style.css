@@ -1,0 +1,47 @@
+.card-title{
+    font-family: 'Fraunces', serif; 
+    font-weight: 700;
+    color: hsl(212, 21%, 14%);
+    
+}
+.attribution{
+    background-color: hsl(30, 38%, 92%);
+    width : auto;
+    height: auto;
+}
+
+.price{
+    font-family: 'Fraunces', serif; 
+    font-weight: 700;
+    word-spacing: 2px;
+    color: hsl(158, 36%, 37%);
+    display: inline-block;
+    
+}
+.text-break{
+    letter-spacing:5px;
+    color: hsl(228, 12%, 48%);
+}
+.font1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: hsl(228, 12%, 48%);
+    font-size: 14px;
+}
+.card-body{
+    margin-top: 5px;
+    text-align: left;
+    margin-left: 10px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.erase{
+    display: inline-block;
+    text-decoration: line-through 1.5px;
+    margin-left: 20px;
+}
+.m{
+    padding-bottom: 10px;
+}
+
+
